@@ -63,7 +63,6 @@ For example, what if an order was placed from a computer in a suspicious country
 	After you install the extension you just need to create a MaxMind account, fill in the credentials and your orders will be reviewed for fraud detection based on the risk threshold you set in admin. All orders which get a score above the threshold will appear in red and placed on hold for further review.
 </ul>
                         <h3>Download Here: <a href="https://www.weltpixel.com/magento2-maxmind-fraud-prevention-minfraud.html">MaxMind Fraud Prevention MinFraud by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
 </div></td>
  </tr>
 </table>
