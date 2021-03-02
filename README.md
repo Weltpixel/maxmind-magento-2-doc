@@ -1,13 +1,13 @@
-<h1><a href="https://www.weltpixel.com/magento2-maxmind-fraud-prevention-minfraud.html">Magento 2 MaxMind Fraud Prevention minFraud by WeltPixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/magento2-maxmind-fraud-prevention-minfraud.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 MaxMind Fraud Prevention minFraud by WeltPixel.</a></h1>
 <br/><br/>
 <table>
   <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/magento2-maxmind-fraud-prevention-minfraud.html"><img src="https://www.weltpixel.com/media/catalog/product/3/2/32.maxmind_1.png" alt="MaxMind Fraud Prevention MinFraud"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/magento2-maxmind-fraud-prevention-minfraud.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/3/2/32.maxmind_1.png" alt="MaxMind Fraud Prevention MinFraud"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
-  	<h2>ABOUT MAXMIND MAGENTO 2 FRAUD PREVENTION MINFRAUD.</h2>
+    <h2>ABOUT MAXMIND MAGENTO 2 FRAUD PREVENTION MINFRAUD.</h2>
                         <ul>
                         Detect fraud and minimize risks, with this extension your Magento orders will be evaluated and receive a risk score, using MaxMind's Score, Insights and Factors Services, depending on which best suits your business.
 
@@ -50,19 +50,19 @@ The MaxMind Fraud Prevention MinFraud extension for Magento 2 is <strong><a href
                          </ul>
                          <h3>How does the minFraud service work?</h3>
 <ul>
-	Along with this extension, a MaxMind account is necessary - you can create one here. The module integrates the MaxMind Risk Scoring service (from only $0.005 an order) with your Magento 2 store and identifies risky orders to be held for further review by your support center.
+  Along with this extension, a MaxMind account is necessary - you can create one here. The module integrates the MaxMind Risk Scoring service (from only $0.005 an order) with your Magento 2 store and identifies risky orders to be held for further review by your support center.
 
 For example, what if an order was placed from a computer in a suspicious country but the shipping address is in Germany? You should be able to easily identify those kinds of orders. Suspicious orders such as these will be flagged automatically by our fraud detection extension. All orders will be verified and scored for fraud risk using MaxMind minFraud service using a 1-100 (highest) score.
 </ul>
 <h3>Easy integration in your Magento 2 store.</h3>
 <ul>
-	The module installs into your Magento store without having to modify your code. Order scores are displayed in the summary Sales Order view and detailed information about the order score (and elements that contributed to it) is visible in each individual order.
+  The module installs into your Magento store without having to modify your code. Order scores are displayed in the summary Sales Order view and detailed information about the order score (and elements that contributed to it) is visible in each individual order.
 </ul>
 <h3>Easy to use.</h3>
 <ul>
-	After you install the extension you just need to create a MaxMind account, fill in the credentials and your orders will be reviewed for fraud detection based on the risk threshold you set in admin. All orders which get a score above the threshold will appear in red and placed on hold for further review.
+  After you install the extension you just need to create a MaxMind account, fill in the credentials and your orders will be reviewed for fraud detection based on the risk threshold you set in admin. All orders which get a score above the threshold will appear in red and placed on hold for further review.
 </ul>
-                        <h3>Download Here: <a href="https://www.weltpixel.com/magento2-maxmind-fraud-prevention-minfraud.html">MaxMind Fraud Prevention MinFraud by WeltPixel.</a></h3>
+                        <h3>Download Here: <a href="https://www.weltpixel.com/magento2-maxmind-fraud-prevention-minfraud.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">MaxMind Fraud Prevention MinFraud by WeltPixel.</a></h3>
 </div></td>
  </tr>
 </table>
@@ -192,8 +192,8 @@ For example, what if an order was placed from a computer in a suspicious country
                         </ul> 
                         <h2>Magento Marketplace Installation.</h2>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                  <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -311,4 +311,4 @@ In <strong>Admin > Sales > Orders >View > Maxmind Fraud Detection</strong> you c
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/magento2-maxmind-fraud-prevention-minfraud.html">Magento 2 MaxMind Fraud Prevention minFraud by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/magento2-maxmind-fraud-prevention-minfraud.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 MaxMind Fraud Prevention minFraud by WeltPixel.</a></h3>
